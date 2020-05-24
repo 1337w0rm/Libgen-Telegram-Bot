@@ -1,0 +1,4 @@
+wget==3.2
+python_telegram_bot==12.5.1
+requests==2.22.0
+beautifulsoup4==4.9.0
